@@ -1,4 +1,4 @@
-const webAR = new WebAR(1000, '/webar/recognize');
+const webAR = new WebAR(1000, 'recognize.php');
 
 const threeHelper = new ThreeHelper();
 
