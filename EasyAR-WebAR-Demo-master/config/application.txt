@@ -1,0 +1,10 @@
+{
+    "web": {
+        "port": ":3000"
+    },
+    "cloud": {
+        "key": "77112b0db6268073a0eb9b5ead7bb997",
+        "secret": "OkwPC7KXfZqMsbGslgmDxNREyv6qwTOFdHhAExDivdU6KuzH0qHNUsl9xWRkOCmsbYIDCG5ed6hHZsNE1Y5tYY6AZfRe1omU4bLoGjbcNPI3sfB2bJvFU4ypOz9FI7Hv",
+        "url": "http://38c95aa722cc8cb55f983f8338664b6a.cn1.crs.easyar.com:8080/search"
+    }
+}
